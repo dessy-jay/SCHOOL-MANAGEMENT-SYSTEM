@@ -1,0 +1,2 @@
+# SCHOOL-MANAGEMENT-SYSTEM2
+This is NOT an online school webiste. It is a SCHOOL MANAGEMENT SYSTEM. It allows three(3) category of users; the admin, the teacher and the students. The admin has TOTAL control of the whole system, the teacher has control over student's info and system, and the student is the least priveledged in the access control scheme, having limited access only to their own profile.
